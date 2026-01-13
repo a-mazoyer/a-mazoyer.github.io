@@ -4,12 +4,12 @@ collection: projects
 permalink: /project/pieuvre/
 ---
 
-A proof assistant based on the **calculus of constructions**, inspired by Rocq and written in OCaml.
+A proof assistant based on the **Calculus of Inductive Constructions**, inspired by Rocq and written in OCaml.
 
-Notable features:
+This is the second project of the PROFON (functional project) course at ENS, implementing a proof assistant based on the Calculus of Inductive
+Constructions (CIC) and mimicking Rocq. 
 
-- Extensive tactic system
-- Implicit arguments
-- VS Code extension
+Contains complex (`induction`, `inversion`) and automatic (`auto`, `semiring`, . . . ) tactics, implicit
+arguments. Implementation of a VSCode extension.
 
-🔗 https://gitlab.aliens-lyon.fr/jupon/pieuvre
+🔗 [Source repository](https://gitlab.aliens-lyon.fr/jupon/pieuvre)

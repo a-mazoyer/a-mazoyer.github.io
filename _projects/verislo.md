@@ -6,4 +6,4 @@ permalink: /project/verislo/
 
 A tool for streamlining **Iris proofs** of **OCaml programs**.
 
-🔗 https://gitlab.aliens-lyon.fr/verislo/verislo
+🔗 [Source repository](https://gitlab.aliens-lyon.fr/verislo/verislo)

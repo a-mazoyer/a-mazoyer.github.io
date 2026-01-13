@@ -1,32 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Amaury Mazoyer",
+    "email": "amaury.mazoyer@ens-lyon.fr",
+    "phone": "+33 6 41 90 21 60",
+    "website": "https://a-mazoyer.github.io/",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Lyon",
+      "countryCode": "France",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "S-c-r-a-t-c-h-y",
+        "url": "https://github.com/S-c-r-a-t-c-h-y"
       }
     ]
   },

@@ -10,10 +10,10 @@ redirect_from:
 ## Education
 
 **École Normale Supérieure de Lyon**  
-_Master d’Informatique (Computer Science)_  
+_Master d’Informatique_
 2025 – current
 
-Research-oriented master’s degree.
+Research-oriented master’s degree in Computer Science.
 
 Relevant coursework:
 
@@ -29,12 +29,14 @@ Relevant coursework:
 _Double Licence: Informatique Fondamentale & Mathématiques_  
 2024 – 2025
 
+Bachelor's degree in Fundamental Computer Science in the ENS de Lyon and bachelor's degree in mathematics in the Université Claude Bernard Lyon 1 validated in parallel through examinations.
+
 Relevant coursework:
 
-- Algorithms
 - Programming Language Theory
 - Foundations of Computer Science
 - Functional Programming
+- Algorithms
 - Logic
 
 ---
@@ -43,32 +45,29 @@ Relevant coursework:
 _Classes préparatoires aux grandes écoles — MPI_  
 2022 – 2024
 
+A two year intensive undergraduate program preparing to the competitive entrance of grandes Écoles.
+
 Class representative (2nd year).
 
 ---
 
 ## Research Experience
 
-**Inria Grenoble Alpes** — Research Internship  
-June–July 2025
+**Centre Inria de l'Université Grenoble Alpes** — Research Internship  
+June–July 2025 (6 weeks)
 
 Supervisor: Martin Bodin
 
 Function analysis in Rocq: bridging informal reasoning and formal proofs.
 
+<!-- TODO -->
+<!-- The goal of this project is to help  -->
+
 ---
 
 ## Projects
 
-**VeriSLO** (2025–current)  
-A tool for streamlining Iris proofs of OCaml programs.  
-https://gitlab.aliens-lyon.fr/verislo/verislo
-
-**Pieuvre** (2025)  
-A proof assistant based on the calculus of constructions, written in OCaml.
-
-**Fouine** (2025)  
-An interpreter for the OCaml language, with CPS translation support.
+See [my project page](https://a-mazoyer.github.io/projects/).
 
 ---
 
@@ -79,7 +78,7 @@ Tools: Git, Linux
 
 ---
 
-## Academic Distinctions
+## Academic Distinctions & Competitions
 
 - SWERC (ICPC), 2024 & 2025 — ENS de Lyon
 
@@ -93,65 +92,9 @@ Tools: Git, Linux
 
 ---
 
-## Service
+## Association Experience
 
 IT Manager — Students’ Union (BDE), ENS de Lyon  
 2025–2026
 
-{% include base_path %}
-
-# Education
-
-- Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-- M.S. in Jekyll, GitHub University, 2014
-- B.S. in GitHub, GitHub University, 2012
-
-# Work experience
-
-- Spring 2024: Academic Pages Collaborator
-
-  - GitHub University
-  - Duties includes: Updates and improvements to template
-  - Supervisor: The Users
-
-- Fall 2015: Research Assistant
-
-  - GitHub University
-  - Duties included: Merging pull requests
-  - Supervisor: Professor Hub
-
-- Summer 2015: Research Assistant
-  - GitHub University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
-
-# Skills
-
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
-
-# Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Download PDF version](/files/cv.pdf)
