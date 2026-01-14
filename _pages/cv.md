@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include toc %}
+
 ## Education
 
 **École Normale Supérieure de Lyon**  
@@ -60,6 +62,9 @@ Supervisor: Martin Bodin
 
 Function analysis in Rocq: bridging informal reasoning and formal proofs.
 
+
+[Report (in French)](/files/report_internship_l3.pdf){: .btn}  [Slides (in French)](/files/slides_internship_l3.pdf){: .btn}
+
 <!-- TODO -->
 <!-- The goal of this project is to help  -->
 
@@ -97,4 +102,4 @@ Tools: Git, Linux
 IT Manager — Students’ Union (BDE), ENS de Lyon  
 2025–2026
 
-[Download PDF version](/files/cv.pdf)
+[Download PDF version](/files/cv.pdf){: .btn}
