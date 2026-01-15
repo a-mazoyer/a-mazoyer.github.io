@@ -1,0 +1,50 @@
+---
+layout: single
+---
+
+<article class="course-page">
+  <header>
+    <!-- <h1>{{ page.title }}</h1> -->
+
+    {% if page.course_code %}
+    <p><strong>Course code:</strong> {{ page.course_code }}</p>
+    {% endif %} {% if page.teachers %}
+    <p>
+      <strong>Instructor{% if page.teachers.size > 1 %}s{% endif %}:</strong>
+      {{ page.teachers | join: ", " }}
+    </p>
+    {% endif %} {% if page.institution %}
+    <p><strong>Institution:</strong> {{ page.institution }}</p>
+    {% endif %} {% if page.year %}
+    <p><strong>Year:</strong> {{ page.year }}</p>
+    {% endif %}
+  </header>
+
+  {% if page.topics %}
+  <section>
+    <h2>Main Topics</h2>
+    <ul>
+      {% for topic in page.topics %}
+      <li>{{ topic }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %} {{ content }} {% if page.chapters %}
+  <section>
+    <h2>Course Chapters</h2>
+    <ol>
+      {% for chapter in page.chapters %}
+      <li>
+        {% if chapter.title %} {{ chapter.title }} {% if chapter.sections %}
+        <ul>
+          {% for section in chapter.sections %}
+          <li>{{ section }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %} {% else %} {{ chapter }} {% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+</article>

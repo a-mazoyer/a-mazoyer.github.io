@@ -53,7 +53,7 @@ author:
   dribbble: # Username
   github: "S-c-r-a-t-c-h-y"
   kaggle: # Username
-  stackoverflow: 15509170 # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  stackoverflow: # 15509170 # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation: # Username
@@ -222,7 +222,16 @@ collections:
   #   permalink: /:collection/:path/
   projects:
     output: true
-    permalink: /project/:path/
+    permalink: /projects/:path/
+  courses:
+    output: true
+    permalink: /courses/:path/
+  coursesl3:
+    output: true
+    permalink: /courses/l3/:path/
+  coursesm1:
+    output: true
+    permalink: /courses/m1/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -275,6 +284,39 @@ defaults:
       share: false
       comment: false
       related: false
+
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false
+      related: false
+
+  - scope:
+      path: ""
+      type: coursesl3
+    values:
+      layout: course
+      excerpt: ""
+      author_profile: false
+      share: false
+      comment: false
+      related: false
+
+  - scope:
+      path: ""
+      type: coursesm1
+    values:
+      layout: course
+      excerpt: ""
+      author_profile: false
+      share: false
+      comment: false
+      related: false
+
   # _talks
   # - scope:
   #     path: ""

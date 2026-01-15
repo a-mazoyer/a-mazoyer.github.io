@@ -1,7 +1,7 @@
 ---
 title: "Fouine"
 collection: projects
-permalink: /project/fouine/
+permalink: /projects/fouine/
 ---
 
 An interpreter for the **OCaml language**, written in OCaml.

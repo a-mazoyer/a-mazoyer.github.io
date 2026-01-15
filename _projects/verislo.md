@@ -1,7 +1,7 @@
 ---
 title: "VeriSLO"
 collection: projects
-permalink: /project/verislo/
+permalink: /projects/verislo/
 ---
 
 A tool for streamlining **Iris proofs** of **OCaml programs**.

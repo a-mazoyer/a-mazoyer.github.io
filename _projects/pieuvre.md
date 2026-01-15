@@ -1,7 +1,7 @@
 ---
 title: "Pieuvre"
 collection: projects
-permalink: /project/pieuvre/
+permalink: /projects/pieuvre/
 ---
 
 A proof assistant based on the **Calculus of Inductive Constructions**, inspired by Rocq and written in OCaml.
