@@ -9,9 +9,13 @@ institution: "ENS de Lyon"
 teachers:
   - Pascal Koiran
 
-topics:
-  -
+# topics:
+#   -
 
-chapters:
-  -
+# chapters:
+#   -
 ---
+
+## Course notes
+
+You can find my course notes [here](/files/cc.pdf) (in French).

@@ -8,10 +8,9 @@ institution: "ENS de Lyon"
 
 teachers:
   - Michele Pagani
+# topics:
+#   -
 
-topics:
-  -
-
-chapters:
-  -
+# chapters:
+#   -
 ---

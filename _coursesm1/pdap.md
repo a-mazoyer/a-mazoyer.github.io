@@ -9,8 +9,8 @@ institution: "ENS de Lyon"
 teachers:
   - Anne Benoit
 
-topics:
-  -
+# topics:
+#   -
 
 chapters:
   - Sorting Networks

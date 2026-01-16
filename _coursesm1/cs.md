@@ -9,10 +9,19 @@ institution: "ENS de Lyon"
 teachers:
   - Alain Passelègue
   - Damien Stehlé
-
-topics:
-  -
+# topics:
+#   -
 
 chapters:
-  -
+  - Introduction
+  - title: Symmetric-key encryption
+    sections:
+      - First security protocols
+      - Pseudo-Random functions (PRFs) and Block ciphers
+      - MACs and CCA-secure encryption
+      - Cryptographic Hash Functions
+  - title: Public-key encryption
+    sections:
+      - Introduction
+      - The random oracle model and applications to CCA security
 ---

@@ -10,8 +10,8 @@ teachers:
   - Gabriel Radanne
   - Ludovic Henrio
 
-topics:
-  -
+# topics:
+#   -
 
 chapters:
   - Introduction

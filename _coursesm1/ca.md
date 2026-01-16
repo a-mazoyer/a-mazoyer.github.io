@@ -11,9 +11,9 @@ teachers:
   - G. Villard
   - R. Prebet
 
-topics:
-  -
+# topics:
+#   -
 
-chapters:
-  -
+# chapters:
+#   -
 ---

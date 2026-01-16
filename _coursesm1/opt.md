@@ -10,8 +10,8 @@ teachers:
   - Stéphane Thomassé
   - Elisa Riccietti
 
-topics:
-  -
+# topics:
+#   -
 
 chapters:
   - Linear Optimization

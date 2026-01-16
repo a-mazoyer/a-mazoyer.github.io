@@ -9,8 +9,8 @@ institution: "ENS de Lyon"
 teachers:
   - Colin Riba
 
-topics:
-  -
+# topics:
+#   -
 
 chapters:
   - Introduction

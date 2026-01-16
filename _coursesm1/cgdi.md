@@ -8,10 +8,9 @@ institution: "ENS de Lyon"
 
 teachers:
   - V. Nivoliers
+# topics:
+#   -
 
-topics:
-  -
-
-chapters:
-  -
+# chapters:
+#   -
 ---
