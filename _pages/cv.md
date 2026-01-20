@@ -12,18 +12,18 @@ redirect_from:
 ## Education
 
 **École Normale Supérieure de Lyon**  
-_Master d’Informatique_
+_Master d’Informatique_  
 2025 – current
 
-Research-oriented master’s degree in Computer Science.
+Research-oriented Master’s degree in Computer Science.
 
 Relevant coursework:
 
-- Proofs and Programs
-- Semantics and Verification
-- Compilers and Program Analysis
-- Parallel and Distributed Algorithms
-- Optimization
+- [Proofs and Programs](/courses/m1/pp)
+- [Semantics and Verification](/courses/m1/sv)
+- [Compilers and Program Analysis](/courses/m1/cap)
+- [Parallel and Distributed Algorithms](/courses/m1/pdap)
+- [Optimization](/courses/m1/opt)
 
 ---
 
@@ -35,11 +35,11 @@ Bachelor's degree in Fundamental Computer Science in the ENS de Lyon and bachelo
 
 Relevant coursework:
 
-- Programming Language Theory
-- Foundations of Computer Science
-- Functional Programming
-- Algorithms
-- Logic
+- [Programming Language Theory](/courses/l3/thprog)
+- [Foundations of Computer Science](/courses/l3/fdi)
+- [Functional Programming](/courses/l3/profon)
+- [Algorithms](/courses/l3/algo1)
+- [Logic](/courses/l3/logic)
 
 ---
 
@@ -58,12 +58,11 @@ Class representative (2nd year).
 **Centre Inria de l'Université Grenoble Alpes** — Research Internship  
 June–July 2025 (6 weeks)
 
-Supervisor: Martin Bodin
+_Supervisor_ : [Martin Bodin](https://mbodin.github.io/)
 
-Function analysis in Rocq: bridging informal reasoning and formal proofs.
+_Topic_ : Function analysis in Rocq: bridging informal reasoning and formal proofs.
 
-
-[Report (in French)](/files/report_internship_l3.pdf){: .btn}  [Slides (in French)](/files/slides_internship_l3.pdf){: .btn}
+[Report (in French)](/files/report_internship_l3.pdf){: .btn} [Slides (in French)](/files/slides_internship_l3.pdf){: .btn}
 
 <!-- TODO -->
 <!-- The goal of this project is to help  -->
@@ -72,14 +71,14 @@ Function analysis in Rocq: bridging informal reasoning and formal proofs.
 
 ## Projects
 
-See [my project page](https://a-mazoyer.github.io/projects/).
+See [my project page](/projects/).
 
 ---
 
 ## Technical Skills
 
-Languages: OCaml, Rocq, Python, C, LaTeX  
-Tools: Git, Linux
+_Languages_ : OCaml, Rocq, Python, C, LaTeX  
+_Tools_ : Git, Linux
 
 ---
 
@@ -92,7 +91,7 @@ Tools: Git, Linux
 ## Languages
 
 - French (native)
-- English (fluent, C1)
+- English (fluent, [Cambridge English: Advanced](https://www.cambridgeenglish.org/exams-and-tests/qualifications/advanced/) — C1 grade B, score 197)
 - German (A2)
 
 ---
@@ -101,5 +100,9 @@ Tools: Git, Linux
 
 IT Manager — Students’ Union (BDE), ENS de Lyon  
 2025–2026
+
+---
+
+## PDF Version
 
 [Download PDF version](/files/cv.pdf){: .btn}

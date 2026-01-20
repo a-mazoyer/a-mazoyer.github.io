@@ -13,10 +13,10 @@ My main research interests are **programming languages**, **type theory**, and *
 
 I am particularly interested in pursuing **research in programming languages and formal methods**, and in continuing toward a PhD.
 
-## Research Interests
+<!-- ## Research Interests
 
 - Programming languages
 - Type theory
 - Formal methods
 - Proof assistants
-- Formal verification
+- Formal verification -->
