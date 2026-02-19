@@ -24,7 +24,7 @@ repository: "a-mazoyer/a-mazoyer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile_v2.png"
   name: "Amaury Mazoyer"
   pronouns: # example: "she/her"
   bio: "Master’s student in Computer Science at ENS de Lyon."
