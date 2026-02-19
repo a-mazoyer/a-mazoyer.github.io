@@ -9,9 +9,17 @@ institution: "ENS de Lyon"
 teachers:
   - Francesco Bronzino
 
-topics:
-  -
+# topics:
+#   -
 
 chapters:
-  -
+  - "Systems and Architectures Basics"
+  - Bash – C Programming
+  - File System
+  - Memory
+  - Processes
+  - Inter Process Communications
+  - Threads
+  - Synchronization
+  - Deadlocks
 ---

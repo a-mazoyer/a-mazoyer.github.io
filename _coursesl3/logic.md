@@ -9,9 +9,13 @@ institution: "ENS de Lyon"
 teachers:
   - Natasha Portier
 
-topics:
-  -
+# topics:
+#   -
 
 chapters:
-  -
+  - Propositional logic
+  - First-order logic
+  - Peano axioms
+  - Set theory
+  - Examples of decidable theories
 ---

@@ -22,17 +22,16 @@ layout: single
 
   {% if page.topics %}
   <section>
-    <h2>Main Topics</h2>
+    <h2>Main topics</h2>
     <ul>
       {% for topic in page.topics %}
       <li>{{ topic }}</li>
       {% endfor %}
     </ul>
   </section>
-  {% endif %} <b>WIP</b> <br />
-  {{ content }} {% if page.chapters %}
+  {% endif %} {{ content }} {% if page.chapters %}
   <section>
-    <h2>Course Chapters</h2>
+    <h2>Course chapters</h2>
     <ol>
       {% for chapter in page.chapters %}
       <li>

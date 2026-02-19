@@ -25,3 +25,7 @@ chapters:
   - Bisimulation
   - On Modal Logics of Transition Systems
 ---
+
+## Course notes
+
+You can find course notes by Colin Riba (teaching this course) [here](https://perso.ens-lyon.fr/colin.riba/teaching/sv/notes.pdf).

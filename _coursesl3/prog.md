@@ -9,9 +9,11 @@ institution: "ENS de Lyon"
 teachers:
   - François Schwarzentruber
 
-topics:
-  -
+# topics:
+#   -
 
-chapters:
-  -
+# chapters:
+#   -
 ---
+
+All of the content of the course can be found [on the course page](https://perso.ens-lyon.fr/francois.schwarzentruber/teaching/l3-prog/book/).

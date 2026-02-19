@@ -9,9 +9,13 @@ institution: "ENS de Lyon"
 teachers:
   - Pascal Koiran
 
-topics:
-  - 
+# topics:
+#   -
 
 chapters:
-  - 
+  - Finite Automatas
+  - Context-free languages
+  - Turing Machines
+  - "Model of computation - Calculability Theory "
+  - Complexity Theory
 ---

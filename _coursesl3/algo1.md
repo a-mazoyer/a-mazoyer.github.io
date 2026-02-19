@@ -9,9 +9,22 @@ institution: "ENS de Lyon"
 teachers:
   - Stéphane Thomassé
 
-topics:
-  - 
+# topics:
+#   -
 
 chapters:
-  - 
+  - Introduction
+  - "Paradigm : Divide and Conquer"
+  - Greedy Algorithms
+  - Uniform Random Generation
+  - NP-completeness
+  - Dynamic Programming
+  - Amortized analysis
+  - Approximation
+  - Randomized Algorithms
+  - Exact Exponential Algorithms
 ---
+
+## Course notes
+
+You can find my course notes [here](/files/algo1.pdf) (in French).

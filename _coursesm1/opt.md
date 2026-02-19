@@ -26,3 +26,7 @@ chapters:
       - Constrained Optimization
       - Optimization Methods for Machine Learning
 ---
+
+## Course notes
+
+You can find course notes by Elisa Riccietti (teaching this course) for the second part of the course (non-linear optimization) [here](https://perso.ens-lyon.fr/elisa.riccietti/doc/optimization.pdf).

@@ -9,9 +9,14 @@ institution: "ENS de Lyon"
 teachers:
   - Guillaume Aubrun
 
-topics:
-  -
+# topics:
+#   -
 
 chapters:
-  -
+  - Events, probabilities, random variables
+  - Moments and deviations
+  - Convergence of random variables
+  - Probabilistic method
+  - Markov chains
+  - Entropy and information
 ---

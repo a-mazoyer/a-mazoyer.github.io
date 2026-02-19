@@ -9,9 +9,11 @@ institution: "ENS de Lyon"
 teachers:
   - Eric Thierry
 
-topics:
-  - 
+# topics:
+#   -
 
 chapters:
-  - 
+  -
 ---
+
+WIP

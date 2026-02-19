@@ -26,3 +26,9 @@ chapters:
   - "Functions: semantics"
   - Parallelism
 ---
+
+The GitHub repository for this course can be found [here](https://github.com/Drup/cap-lab25/).
+
+## Course notes
+
+You can find course notes by the teachers of this course [here](https://github.com/Drup/cap-lab25/tree/main/course).
