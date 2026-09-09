@@ -7,12 +7,15 @@ redirect_from:
   - /resume
 ---
 
+<meta http-equiv="refresh" content="0;URL=https://a-mazoyer.github.io/files/cv.pdf">
+
+<!--
 {% include toc %}
 
 ## Education
 
-**École Normale Supérieure de Lyon**  
-_Master d’Informatique_  
+**École Normale Supérieure de Lyon**
+_Master d’Informatique_
 2025 – current
 
 Research-oriented Master’s degree in Computer Science.
@@ -27,8 +30,8 @@ Relevant coursework:
 
 ---
 
-**ENS de Lyon & Université Claude Bernard Lyon 1**  
-_Double Licence: Informatique Fondamentale & Mathématiques_  
+**ENS de Lyon & Université Claude Bernard Lyon 1**
+_Double Licence: Informatique Fondamentale & Mathématiques_
 2024 – 2025
 
 Bachelor's degree in Fundamental Computer Science in the ENS de Lyon and bachelor's degree in mathematics in the Université Claude Bernard Lyon 1 validated in parallel through examinations.
@@ -43,8 +46,8 @@ Relevant coursework:
 
 ---
 
-**Lycée Champollion, Grenoble**  
-_Classes préparatoires aux grandes écoles — MPI_  
+**Lycée Champollion, Grenoble**
+_Classes préparatoires aux grandes écoles — MPI_
 2022 – 2024
 
 A two year intensive undergraduate program preparing to the competitive entrance of grandes Écoles.
@@ -55,7 +58,18 @@ Class representative (2nd year).
 
 ## Research Experience
 
-**Centre Inria de l'Université Grenoble Alpes** — Research Internship  
+**University of Edinburgh** — Research Internship
+May–July 2026 (12 weeks)
+
+_Supervisor_ : [Ohad Kammar](https://denotational.co.uk/)
+
+_Topic_ : Varieties of Semiring Solvers via Multicategorical and Algebraic Constructions.
+
+The goal of this internship was to combine free algebras for component theories to get free algebras for distributive combination of theories.
+
+[Report](/files/report_internship_m1.pdf){: .btn} [Slides](/files/slides_internship_m1.pdf){: .btn}
+
+**Centre Inria de l'Université Grenoble Alpes** — Research Internship
 June–July 2025 (6 weeks)
 
 _Supervisor_ : [Martin Bodin](https://mbodin.github.io/)
@@ -77,7 +91,7 @@ See [my project page](/projects/).
 
 ## Technical Skills
 
-_Languages_ : OCaml, Rocq, Python, C, LaTeX  
+_Languages_ : OCaml, Rocq, Idris 2, Python, C, LaTeX  
 _Tools_ : Git, Linux
 
 ---
@@ -106,3 +120,4 @@ IT Manager — Students’ Union (BDE), ENS de Lyon
 ## PDF Version
 
 [Download PDF version](/files/cv.pdf){: .btn}
+-->
