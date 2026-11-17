@@ -5,7 +5,7 @@ permalink: /courses/l3/
 collection: courses
 ---
 
-This page lists the courses I followed in L3 (third year of my Bachelor's degree) in the ENS.
+This page lists the courses I followed in L3 (third year of my Bachelor's degree) at ENS.
 
 All courses in L3 are taught in French.
 

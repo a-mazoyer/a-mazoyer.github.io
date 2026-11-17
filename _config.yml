@@ -39,7 +39,7 @@ author:
   googlescholar: # URL
   inspire-hep: # URL
   impactstory: # URL
-  orcid: # URL
+  orcid: https://orcid.org/0009-0007-0601-0946
   semantic: # URL
   ssrn: # URL
   pubmed: # URL
@@ -51,7 +51,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "S-c-r-a-t-c-h-y"
+  github: "a-mazoyer"
   kaggle: # Username
   stackoverflow: # 15509170 # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -232,6 +232,9 @@ collections:
   coursesm1:
     output: true
     permalink: /courses/m1/:path/
+  coursesm2:
+    output: true
+    permalink: /courses/m2/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -309,6 +312,17 @@ defaults:
   - scope:
       path: ""
       type: coursesm1
+    values:
+      layout: course
+      excerpt: ""
+      author_profile: false
+      share: false
+      comment: false
+      related: false
+
+  - scope:
+      path: ""
+      type: coursesm2
     values:
       layout: course
       excerpt: ""
