@@ -23,7 +23,7 @@ I am particularly interested in pursuing **research in programming languages and
 
 ## Me before
 
-- Internship in the [Laboratory for Foundations of Computer Science](https://informatics.ed.ac.uk/lfcs/research/programming-languages-and-foundations) at the [University of Edinburgh School of Informatics](https://informatics.ed.ac.uk/) with [Ohad Kammar](https://denotational.co.uk/) (summer 2026)
+- [Internship](https://a-mazoyer.github.io/M1-internship/) in the [Laboratory for Foundations of Computer Science](https://informatics.ed.ac.uk/lfcs/research/programming-languages-and-foundations) at the [University of Edinburgh School of Informatics](https://informatics.ed.ac.uk/) with [Ohad Kammar](https://denotational.co.uk/) (summer 2026)
 - First year of my Master's degree at [ENS de Lyon](https://www.ens-lyon.fr/en/) (2025-2026)
-- Internship in the [Spades](https://www.inria.fr/en/spades) team at [Centre Inria de l'Université Grenoble Alpes](https://www.inria.fr/en/inria-center-universite-grenoble-alpes) with [Martin Bodin](https://mbodin.github.io/) (summer 2025)
+- [Internship](https://a-mazoyer.github.io/L3-internship/) in the [Spades](https://www.inria.fr/en/spades) team at [Centre Inria de l'Université Grenoble Alpes](https://www.inria.fr/en/inria-center-universite-grenoble-alpes) with [Martin Bodin](https://mbodin.github.io/) (summer 2025)
 - Third year of my Bachelor's degree at [ENS de Lyon](https://www.ens-lyon.fr/en/) (2024-2025)
